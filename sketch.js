@@ -683,7 +683,7 @@ if(gameState === 18) {
   fill("red")
   textFont("Curlz MT")
   textStyle(BOLD)
-  text("Correct answer:   a.  obserning, experimenting, making predictions, asking question", 150, 580)
+  text("Correct answer:   a.  observing, experimenting, making predictions, asking question", 150, 580)
 
   q1A.visible = false
   q1B.visible = false
