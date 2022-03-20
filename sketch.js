@@ -967,7 +967,7 @@ if(gameState === 23) {
   fill("red")
   textFont("Curlz MT")
   textStyle(BOLD)
-  text("Correct answer:   b.  28 degree", 500, 550)
+  text("Correct answer:   b.  28°", 500, 550)
 
   q1A.visible = false
   q1B.visible = false
